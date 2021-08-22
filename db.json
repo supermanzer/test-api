@@ -1,0 +1,34 @@
+{
+ events: [
+      {
+        id: 3546843,
+        category: 'food',
+        title: 'Vinyl & Fried Chicken',
+        description:
+          'Delicious fried chicken sandwiches, awesome vinyl selection, and great beer',
+        location: 'OtherBrother Beer',
+        date: 'Every Wednesday',
+        time: '5:00pm',
+      },
+      {
+        id: 6543546,
+        category: 'music',
+        title: 'Cocktail Club Jazz',
+        description:
+          'Sip classy cocktails while listening to local jazz musicians do their thing',
+        location: 'Pearl Hour',
+        date: 'Every Sunday',
+        time: '8:00pm',
+      },
+      {
+        id: 6465546546,
+        category: 'food',
+        title: 'Beaujolais Nouveau',
+        description:
+          'A celebration of the grape harvest, this French food festival is a joyous celebration of fresh food well made',
+        location: 'Bistro Moulin',
+        date: 'November 16',
+        time: '6:00pm',
+      },
+    ],
+}
