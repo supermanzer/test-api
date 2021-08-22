@@ -1,8 +1,8 @@
 {
  "events": [
       {
-        id: 3546843,
-        category: 'food',
+        "id": 3546843,
+        "category": "food",
         title: 'Vinyl & Fried Chicken',
         description:
           'Delicious fried chicken sandwiches, awesome vinyl selection, and great beer',
